@@ -1,2 +1,2 @@
 # Memories
-# A MERN application 
+# This is a MERN application 
